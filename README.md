@@ -1,26 +1,21 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Excel, Power BI
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+Licentiate degree, Psychology | Universidad Autónoma de Coahuila (_Dic 2018_)       		
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Program Manager @ Secretaría de Cultura del Estado de Coahuila de Zaragoza (_Agust 2021 - Present_)**
+- Coordinated the Delivering - Reception process for the Secretaría de Cultura
+- Concluded for concurrent administration the requeriments of the Norma General de Control Interno Gubernamental
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://github.com/Tellitaz/Ethereum/blob/0b82466f25fd1c13a4aebd4d7ba6d69576c515e4/merged_data1.ipynb)
+### Integrated Data Analysis: Ethereum; Gasoline Prices  and COVID-19 Cases Trends Exploration
+[Github repository](https://github.com/Tellitaz/Ethereum/blob/0b82466f25fd1c13a4aebd4d7ba6d69576c515e4/merged_data1.ipynb)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+In this comprehensive data analysis project, we delve into the intricate interplay between economic, financial, and societal factors by exploring the dynamics of Ethereum; Gasoline Prices  and COVID-19 Cases trends. This project offers a multidimensional perspective on the intricate relationships between these diverse datasets, spanning across a specific timeframe.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
