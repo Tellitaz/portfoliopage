@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, SQL, Excel and Power BI
 
@@ -12,8 +12,8 @@ Licentiate degree, Psychology | Universidad Autónoma de Coahuila (_Dic 2018_)
 
 ## Projects
 ### Integrated Data Analysis: Ethereum; Gasoline Prices  and COVID-19 Cases Trends Exploration
+![Ethereum](assets/img/Eth-diamond-rainbow.png)
 [Github repository](https://github.com/Tellitaz/Ethereum/blob/0b82466f25fd1c13a4aebd4d7ba6d69576c515e4/merged_data1.ipynb)
 
 In this comprehensive data analysis project, we delve into the intricate interplay between economic, financial, and societal factors by exploring the dynamics of Ethereum; Gasoline Prices  and COVID-19 Cases trends. This project offers a multidimensional perspective on the intricate relationships between these diverse datasets, spanning across a specific timeframe.
-
 
